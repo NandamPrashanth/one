@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>NexusShop — Shop Smarter</title>
+    <title>NexusShop — Shop Smarter for yourself</title>
 
     <meta name="description"
           content="NexusShop — Discover premium products, trending technology, fashion and accessories at great prices.">
